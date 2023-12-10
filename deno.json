@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "start": "cd $INIT_CWD && deno run --allow-read=. index.ts"
+  }
+}
