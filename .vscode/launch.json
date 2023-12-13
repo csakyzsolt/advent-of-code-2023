@@ -1,0 +1,22 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "request": "launch",
+      "name": "Launch Program",
+      "type": "node",
+      "program": "${workspaceFolder}/10/index.ts",
+      "cwd": "${workspaceFolder}/10",
+      "runtimeExecutable": "C:\\Users\\CsákyZsolt\\AppData\\Local\\Microsoft\\WinGet\\Packages\\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe\\deno.EXE",
+      "runtimeArgs": [
+        "run",
+        "--inspect-wait",
+        "--allow-all"
+      ],
+      "attachSimplePort": 9229
+    }
+  ]
+}
